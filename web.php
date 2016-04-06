@@ -79,8 +79,8 @@ list-style: none;
 <h1>Get My Pointer !!!</h1>
 <div class="links">
 <TABLE id="li" WIDTH=700 HEIGHT=100 >
-<TR>
-<TD><div class="dropdown">
+<tr>
+<td><div class="dropdown">
     <button>HOME</button>
    <ul class="dropdown-menu" >
         <li><a href="index.php">HOME</a></li>
@@ -103,13 +103,13 @@ list-style: none;
 <TD><div class="dropdown">
 <button>HELP</button>
 <ul class="dropdown-menu" >
-        <li><a href="faq.php">FAQs</a></li>
+        <li><a href="faq.php">FAQ's</a></li>
         <li><a href="contact.php">Contact</a></li>
     </ul>
 </div></td>
 </tr>
 </table>
-</div>
+</div> 
 </div>
 </div>
 </body>
